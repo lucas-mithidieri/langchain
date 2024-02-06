@@ -14,3 +14,4 @@ A página utilizada foi de uma [matéria](https://g1.globo.com/sp/sorocaba-jundi
 ## Melhorias futuras
 Algumas perguntas não são respondidas adequadamente por se tratar de um modelo open-source, sendo necessário trabalho extra de prompt-engineering.
 * Melhoria do prompt template
+* Adicionar a capacidade do modelo lembrar as ultimas respostas (Langchain)
