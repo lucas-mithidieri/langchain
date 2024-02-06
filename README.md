@@ -6,4 +6,4 @@ A seguir você encontra uma série de projetos utilizando o framework.
 
 | Projeto              | Descrição                | Categorias                 |
 | :-------------------- | :--------------------- |:--------------------------- |
-|     Page content chatbot       |     O chatbot responde a perguntas sobre o conteúdo de um site.      |      webscrapping, chatbot           |
+|     Page content chatbot       |     O chatbot responde a perguntas sobre o conteúdo de um site.      |      Google API, webscrapping, chatbot           |
