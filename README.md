@@ -1,4 +1,4 @@
-## 👻 Projetos LangChain
+## 🦜 Projetos LangChain
 A seguir você encontra uma série de projetos utilizando o framework.
 
 ### O que é o LangChain?
