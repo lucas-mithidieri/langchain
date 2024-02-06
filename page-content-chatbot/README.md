@@ -2,7 +2,7 @@
 Este projeto demonstra a utilização do __Langchain + Ollama (WSL)__ para interagir com o conteúdo de páginas web através de perguntas.
 
 ## Resultados
-A [página](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/02/06/prefeitura-de-jundiai-identifica-mais-um-morcego-contaminado-com-raiva-cidade-soma-cinco-casos-no-ano.ghtml) utilizada foi de uma matéria que narra o caso de um morcego contaminado com raiva encontrado em Jundiaí (SP).
+A página utilizada foi de uma [matéria](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/02/06/prefeitura-de-jundiai-identifica-mais-um-morcego-contaminado-com-raiva-cidade-soma-cinco-casos-no-ano.ghtml) que narra o caso de um morcego contaminado com raiva encontrado em Jundiaí (SP).
 
 | Pergunta              | Resposta                |
 | :-------------------- | :--------------------------- |
