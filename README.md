@@ -6,6 +6,6 @@ A seguir você encontra uma série de projetos utilizando o framework.
 
 | Projeto              | Descrição                | Categorias                 |
 | :-------------------- | :--------------------- |:--------------------------- |
-| [Gmail auto reply](#) | Uma IA que responde emails automaticamente. | Assistente, IA |
+| [Gmail auto reply](#) | Uma IA que responde emails automaticamente. | GmailAPI, Assistente, IA, |
 |     [Page content chatbot](https://github.com/lucas-mithidieri/langchain/tree/main/page-content-chatbot)       |     O chatbot responde a perguntas sobre o conteúdo de uma página Web.      |      webscrapping, chatbot           |
 
