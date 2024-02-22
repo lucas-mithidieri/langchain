@@ -6,4 +6,5 @@ A seguir você encontra uma série de projetos utilizando o framework.
 
 | Projeto              | Descrição                | Categorias                 |
 | :-------------------- | :--------------------- |:--------------------------- |
-|     [Page content chatbot](https://github.com/lucas-mithidieri/langchain/tree/main/page-content-chatbot)       |     O chatbot responde a perguntas sobre o conteúdo de uma página web.      |      webscrapping, chatbot           |
+|     [Page content chatbot](https://github.com/lucas-mithidieri/langchain/tree/main/page-content-chatbot)       |     O chatbot responde a perguntas sobre o conteúdo de uma página Web.      |      webscrapping, chatbot           |
+| [Gmail auto reply](#) | Uma IA que responde emails automaticamente. | Assistente, IA |
