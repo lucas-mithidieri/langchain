@@ -1,5 +1,5 @@
 ## 🦜 Projetos LangChain
-A seguir você encontra uma série de projetos utilizando o framework.
+A seguir você encontra uma série de projetos de LLM e agentes utilizando o framework.
 
 ### O que é o LangChain?
 É um framework para facilitar o trabalho com Large Language Models, como o ChatGPT por exemplo.
