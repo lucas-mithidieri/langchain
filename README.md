@@ -2,7 +2,7 @@
 A seguir você encontra uma série de projetos utilizando o framework.
 
 ### O que é o LangChain?
-É um framework para facilitar o trabalho com Large Language Models, como o chatGPT por exemplo.
+É um framework para facilitar o trabalho com Large Language Models, como o ChatGPT por exemplo.
 
 | Projeto              | Descrição                | Categorias                 |
 | :-------------------- | :--------------------- |:--------------------------- |
