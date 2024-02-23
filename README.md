@@ -6,7 +6,7 @@ A seguir você encontra uma série de projetos utilizando o framework.
 
 | Projeto              | Descrição                | Categorias                 |
 | :-------------------- | :--------------------- |:--------------------------- |
-| [Gmail auto reply agent](#) |  Agente LLM que responde emails automaticamente. | Gmail API, assistente IA |
-| [Gmail draft creator agent](#) | O agente cria rascunho de emails no gmail a partir da entrada do usuário. | Gmail API, assistente IA |
+| [Gmail auto reply agent](#) |  Agente LLM que responde emails automaticamente. | Gmail API, assistente IA, CrewAi |
+| [Gmail draft creator agent](#) | O agente cria rascunho de emails no gmail a partir da entrada do usuário. | Gmail API, assistente IA, CrewAi |
 |     [Page content chatbot](https://github.com/lucas-mithidieri/langchain/tree/main/page-content-chatbot)       |     O AI agent responde a perguntas sobre o conteúdo de uma página Web.      |      webscrapping, chatbot           |
 
