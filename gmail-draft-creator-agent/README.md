@@ -1,5 +1,5 @@
 # 🤖 Gmail Draft Creator Agent 
-Implementação de um AI Agent capaz de criar rascunhos de emails através de instruções em lingaguem natural.
+Implementação de um AI Agent capaz de criar __rascunhos de emails__ através de instruções em lingaguem natural.
 
 ![](https://github.com/lucas-mithidieri/langchain/blob/main/gmail-draft-creator-agent/demo/langchain_gmail_drafter_rev.gif)
 
